@@ -1181,7 +1181,8 @@
 
 .menu--iris .menu__link:hover,
 .menu--iris .menu__link:focus {
-	color: #929292;
+  	color: #F7F3FF;
+
 }
 
 .menu--iris .menu__item--current .menu__link {
