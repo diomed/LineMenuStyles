@@ -1203,6 +1203,10 @@
 	transition-timing-function: cubic-bezier(0.17, 0.67, 0.05, 1.29);
 }
 
+.menu--iris:hover .menu__link::before,
+.menu--iris:hover .menu__link::after
+{	border: 2px solid dodgerblue}
+
 .menu--iris .menu__link::before {
 	top: 0;
 	left: 0;
