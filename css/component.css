@@ -47,7 +47,7 @@
 	margin: 0;
 }
 
-.menu--alonso .menu__link {
+.menu--alonso .menu__link, .menu__link:hover {
 	width: 120px;
 	height: 3em;
 	text-align: center;
