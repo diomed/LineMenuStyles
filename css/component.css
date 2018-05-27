@@ -47,7 +47,7 @@
 	margin: 0;
 }
 
-.menu--alonso .menu__link, .menu__link:hover {
+.menu--alonso .menu__link {
 	width: 120px;
 	height: 3em;
 	text-align: center;
@@ -67,7 +67,9 @@
 	transition: color 0.5s;
 }
 
-.menu--alonso .menu__line {
+.menu--alonso .menu__line,
+
+.menu--alonso:hover .menu__line{
 	position: absolute;
 	top: 100%;
 	left: 0;
